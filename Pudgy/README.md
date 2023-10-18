@@ -9,7 +9,7 @@
 
 ### Create Account and Logout:
 
-<img src="./gifs/Week10SignUpLogOut.gif"/>
+<img src="./img/Week10SignUpLogOut.gif"/>
 
 ### View Stream of Quotes
 
