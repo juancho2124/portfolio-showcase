@@ -3,5 +3,5 @@
 Here are the projects I've worked on:
 
 - [MuscleMatrix](./MuscleMatrix/)
-- [JFabulous](./JFabulous/)
+- [JFabulous](https://jfabulous.com/)
 - [OmniFood](./OmniFood/)
