@@ -2,6 +2,8 @@
 
 Here are the projects I've worked on:
 
+- [Visit my personal website!!](https://juanarango.netlify.app/)
+
 - [MuscleMatrix](./MuscleMatrix/)
 - [JFabulous](https://jfabulous.com/)
-- [OmniFood](./OmniFood/)
+- [OmniFood](https://omnifood-arango.netlify.app/)
