@@ -7,4 +7,4 @@ Here are the projects I've worked on:
 - [JFabulous](https://jfabulous.com/)
 - [OmniFood](https://omnifood-arango.netlify.app/)
 - [Puggy](./Pudgy/)
-- [Little Lemon Restaurant] (https://littlelemon-ja.netlify.app/)
+- [Little Lemon Restaurant](https://littlelemon-ja.netlify.app/)
